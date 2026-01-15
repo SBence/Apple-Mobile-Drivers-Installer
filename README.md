@@ -44,7 +44,7 @@ Anyways, that makes no problem: you can just move them out and install them your
 
 - Download **iTunes** from [here](https://www.apple.com/itunes/download/win64)
 - Extract it (using WinRAR/7zip) and install **AppleMobileDeviceSupport64.msi**
-- Download the .cab updates from the following links: [Apple USB Drivers](https://catalog.s.download.windowsupdate.com/d/msdownload/update/driver/drvs/2020/11/01d96dfd-2f6f-46f7-8bc3-fd82088996d2_a31ff7000e504855b3fa124bf27b3fe5bc4d0893.cab) - [Apple Tether USB Drivers](https://catalog.s.download.windowsupdate.com/c/msdownload/update/driver/drvs/2017/11/netaapl_7503681835e08ce761c52858949731761e1fa5a1.cab)
+- Download the .cab updates from the following links: [Apple USB Drivers](https://catalog.s.download.windowsupdate.com/d/msdownload/update/driver/drvs/2023/10/5fb262ea-d52d-46a7-9361-f3260ba57a1a_3e8075a4dded0a795131f82285e2f1a06525ebc2.cab) - [Apple Tether USB Drivers](https://catalog.s.download.windowsupdate.com/c/msdownload/update/driver/drvs/2017/11/netaapl_7503681835e08ce761c52858949731761e1fa5a1.cab)
 - Extract the .cab files
 - Right click the .inf files in the same folder and select **Install**
 <hr>
